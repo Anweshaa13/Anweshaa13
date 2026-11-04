@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey there! 👋 I'm Anwesha
 
-<!--
-**Anweshaa13/Anweshaa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer | Exploring AI/ML**
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student passionate about building web applications and exploring intelligent technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Building full-stack projects and real-world applications.
+- 🌱 Currently learning Artificial Intelligence & Machine Learning.
+- 💻 Interested in Backend Development, DSA, and AI-powered applications.
+- 🚀 Always exploring new technologies and improving my skills.
+
+### 💻 Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
+
+**Backend:** Node.js, Express.js, REST APIs
+
+**Database:** MongoDB, PostgreSQL, MySQL
+
+**Languages:** Java, JavaScript, Python, C++
+
+**Tools:** Git, GitHub, VS Code, Postman
+
+### 📌 What I'm Working On
+- Full-Stack Development
+- AI/ML Projects
+- Backend Engineering
+
+### 🤝 Let's Connect
+
+Always open to learning, collaborating, and building something awesome!
